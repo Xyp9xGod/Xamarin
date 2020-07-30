@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ViN8nqKT1hZsLrSHrHhVLcyrwkm33IEFR5WQ/+r4bo0zp1u3Q6hMgWXh1iTlA7XvMWfT/fNI8yXRpOw90TSk4w==",
+  "success": true,
+  "projectFilePath": "D:\\GitHub\\Xamarin\\BuscaCep\\BuscaCep\\BuscaCep.iOS\\BuscaCep.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arilson\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Arilson\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+D:\GitHub\Xamarin\BuscaCep\BuscaCep\BuscaCep\bin\Debug\netstandard2.0\BuscaCep.deps.json
+D:\GitHub\Xamarin\BuscaCep\BuscaCep\BuscaCep\bin\Debug\netstandard2.0\BuscaCep.dll
+D:\GitHub\Xamarin\BuscaCep\BuscaCep\BuscaCep\obj\Debug\netstandard2.0\BuscaCep.csprojAssemblyReference.cache
+D:\GitHub\Xamarin\BuscaCep\BuscaCep\BuscaCep\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\GitHub\Xamarin\BuscaCep\BuscaCep\BuscaCep\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\GitHub\Xamarin\BuscaCep\BuscaCep\BuscaCep\obj\Debug\netstandard2.0\BuscaCep.AssemblyInfoInputs.cache
+D:\GitHub\Xamarin\BuscaCep\BuscaCep\BuscaCep\obj\Debug\netstandard2.0\BuscaCep.AssemblyInfo.cs
+D:\GitHub\Xamarin\BuscaCep\BuscaCep\BuscaCep\bin\Debug\netstandard2.0\ref\BuscaCep.dll
+D:\GitHub\Xamarin\BuscaCep\BuscaCep\BuscaCep\bin\Debug\netstandard2.0\BuscaCep.pdb
+D:\GitHub\Xamarin\BuscaCep\BuscaCep\BuscaCep\obj\Debug\netstandard2.0\BuscaCep.csproj.CoreCompileInputs.cache
+D:\GitHub\Xamarin\BuscaCep\BuscaCep\BuscaCep\obj\Debug\netstandard2.0\XamlC.stamp
+D:\GitHub\Xamarin\BuscaCep\BuscaCep\BuscaCep\obj\Debug\netstandard2.0\BuscaCep.dll
+D:\GitHub\Xamarin\BuscaCep\BuscaCep\BuscaCep\obj\Debug\netstandard2.0\ref\BuscaCep.dll
+D:\GitHub\Xamarin\BuscaCep\BuscaCep\BuscaCep\obj\Debug\netstandard2.0\BuscaCep.pdb
